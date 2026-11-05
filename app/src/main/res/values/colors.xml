@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    #E37B0B-->
+    <color name="primaryColor">#FF8B0E</color>
+    <color name="primaryBackground">#FFFFFF</color>
+    <color name="secondaryBackground">#F7F2F2</color>
+    <color name="iconColor">#191919</color>
+    <color name="iconColorInverse">#FFFFFF</color>
+    <color name="link">#007bff</color>
+    <color name="orange">#E49B2E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#F7F2F2</color>
+    <color name="faint">#888888</color>
+    <color name="darkgrey">#CCCCCC</color>
+    <color name="red">#FA0A0A</color>
+    <color name="BorderStrokeColor">#000000</color>
+    <color name="lightBlue">#40E9FF</color>
+    <color name="green">#2FC10B</color>
+    <color name="faintRed">#FD4B4B</color>
+
+<!--    Metro UI colors : -->
+    <color name="primaryColorMetro">#8647F6</color>
+    <color name="purple">#A020F0</color>
+    <color name="aqua">#00FFFF</color>
+
+    <!--    Metro UI colors : -->
+    <color name="primaryColorCab">#3AC340</color>
+</resources>
